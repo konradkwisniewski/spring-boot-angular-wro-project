@@ -1,0 +1,10 @@
+com\ai\ai\model\MainEntity.class
+com\ai\ai\Database\DatabaseTestData.class
+com\ai\ai\model\SubMainEntity.class
+com\ai\ai\service\MainService.class
+com\ai\ai\AiApplication.class
+com\ai\ai\repository\MainRepository.class
+com\ai\ai\component\MainComponent.class
+com\ai\ai\dto\MainEnityDto.class
+com\ai\ai\service\Impl\MainServiceImpl.class
+com\ai\ai\controller\MainController.class
